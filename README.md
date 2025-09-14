@@ -1,10 +1,10 @@
 # KNN-regression
 A data analysis in R
 
-*Topic*
+*Topic:*
  Age Predicting Total Play Time Contribution to PLAICraft.
 
-*Libraries Used*
+*Libraries Used:*
 tidyverse, tidymodels, ggplot2, gridextra
 
 *Description:*
