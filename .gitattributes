@@ -1,0 +1,2 @@
+# Knitted R Markdown output - report it as R, not HTML
+*.html linguist-language=R
