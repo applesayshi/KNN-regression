@@ -27,7 +27,3 @@ Linear regression edges out KNN, and the KNN result is a red flag on its own: th
 ## Stack
 
 R · `tidyverse` · `tidymodels` · `ggplot2` · `gridExtra`
-
-## Credits
-
-Group project for DSCI 100 (UBC).
